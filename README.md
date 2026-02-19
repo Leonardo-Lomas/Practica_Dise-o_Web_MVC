@@ -1,15 +1,11 @@
-# Proyecto de Interfaz ERP
 
-## 🎯 Objetivo
-El siguiente proyecto tiene como finalidad presentar un diseño **intuitivo**, **eficaz** y **ágil** de una interfaz gráfica para un sistema **ERP** desarrollado en **WEB** utilizando tecnologías básicas.
+  # Sistema EPR
 
-## 🛠️ Tecnologías utilizadas
-- **HTML**
-- **JavaScript**
-- **CSS**
+  This is a code bundle for Sistema EPR. The original project is available at https://www.figma.com/design/LXSNbHx9psp4IGQ2IQ8mIP/Sistema-EPR.
 
-## 📈 Alcance
-Este prototipo busca mostrar el **flujo principal de acción** dentro del sistema ERP que se desarrollará próximamente.
+  ## Running the code
 
-## ⚠️ Nota
-Este es **solo un prototipo no funcional**, creado con fines de diseño y presentación.
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
